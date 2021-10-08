@@ -8,6 +8,10 @@
 
 -Brayan Smith Gil Cardenas - 2200493
 
+# Instalacion
+1. Clonar el repositorio.
+2. Descargar la libreria minim para la música.
+
 # Narrativa
 
 Eres un antiguo mago, que luego de cumplir con su servicio hacia su reino se retiró hacia una torre, en una zona protegida, antaño llena de Flora y fauna mágica con el objetivo de investigar lo sucedido con la magía de el lugar, que hace mucho tiempo, desapareció sin dejar rastro alguno
