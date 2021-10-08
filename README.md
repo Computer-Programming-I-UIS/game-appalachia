@@ -96,9 +96,10 @@ https://craftpix.net/freebies/free-wraith-tiny-style-2d-sprites/
 -Golem
 https://craftpix.net/freebies/free-golem-tiny-style-2d-character-sprites/
 
--Texturas del suelo, naturaleza y la torre
+-Texturas del suelo, naturaleza
 https://craftpix.net/freebies/nature-pixel-art-environment-free-assets-pack/
 
+-Texturas de la torre
 https://craftpix.net/freebies/free-medieval-tileset-pixel-art-pack/
 
 
