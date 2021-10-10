@@ -80,7 +80,7 @@ Videojuego del genero Tower defence y shooter de acción
 -El nombre de la entidad que antes gobernó Appalachia es tan poderoso, que en caso de ser visto, o escuchado por un humano,
 lo sumiría completamene en la locura
 
-# CREDITOS 
+# CRÉDITOS 
 
 -Fondo utilizado
 https://www.wallpaperbetter.com/es/hd-wallpaper-gwsvc/download/1280x720
@@ -88,7 +88,7 @@ https://www.wallpaperbetter.com/es/hd-wallpaper-gwsvc/download/1280x720
 -Protagonista
 https://luizmelo.itch.io/evil-wizard-2
 
--Magia
+-Mágia
 https://kvsr.itch.io/fireball-animation
 
 -Banda sonora
