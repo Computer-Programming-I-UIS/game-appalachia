@@ -10,7 +10,7 @@
 
 # Instalacion
 1. Clonar el repositorio.
-2. Descargar la libreria minim para la música.
+2. Descargar la libreria Sound para la música.
 
 # Narrativa
 
