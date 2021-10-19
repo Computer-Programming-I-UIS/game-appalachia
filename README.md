@@ -70,9 +70,9 @@ Videojuego del genero Tower defence y shooter de acción
 
 # CURIOSIDADES
 
--El mago protagonista se llama Bob.
+-El mago protagonista se llama Chayanne.
 
--Appalachia es el nombre de la zona en la que se ubica el juego.
+-Appalachia es el nombre del territorio en la que se ubica el juego.
 
 -El Reino al que el mago servía, tiene el nombre de "El gran imperio de oriente" 
 (si, bastante pretencioso) 
