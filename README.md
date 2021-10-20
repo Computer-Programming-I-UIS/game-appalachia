@@ -1,6 +1,6 @@
 
 
-![imagen](https://user-images.githubusercontent.com/89647108/136501138-0af24cd6-cfde-4370-9212-8c67c7ebd3f4.png)
+![Banner](https://user-images.githubusercontent.com/89647108/138056877-f6c2b316-25b2-422b-a2c7-177f69c97d94.png)
 
 # DESARROLLADO POR
 
@@ -68,7 +68,7 @@ Videojuego del genero Tower defence y shooter de acción
 
 # CONTROLES
 
-![Tuto 2](https://user-images.githubusercontent.com/89647108/136502366-8273a32d-a723-4be5-97b3-a7c64bdba67d.jpg)
+![DIAPO5](https://user-images.githubusercontent.com/89647108/138057138-f85fdcd6-c15d-475e-86a9-e2098e6d1cc5.png)
 
 
 # CURIOSIDADES
