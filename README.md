@@ -43,11 +43,14 @@ Videojuego del genero Tower defence y shooter de acción
 
 -GOLEM
 
-![6](https://user-images.githubusercontent.com/89647108/136501466-a86a6d77-15d2-46d5-958d-a95563caae55.png)
+![g1](https://user-images.githubusercontent.com/89646836/138017449-06abf9f9-6553-4280-8700-df9ae7a764ef.png)
 
--FANTASMA
+-FANTASMAS
 
-![fantasma 13](https://user-images.githubusercontent.com/89647108/136501648-67e8710f-6639-4bf0-9b67-bccf6c16a596.png)
+![fantasma 1](https://user-images.githubusercontent.com/89646836/138017483-2902bbfe-5c9c-424f-a100-50eec307b0e9.png)
+
+![f1](https://user-images.githubusercontent.com/89646836/138017492-fb21b129-dfee-4868-8383-83f78953c708.png)
+
 
 -MAGIA
 
