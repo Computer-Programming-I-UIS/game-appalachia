@@ -63,7 +63,7 @@ Videojuego del genero Tower defence y shooter de acción
 
 # INGAME
 
-![Ingame](https://user-images.githubusercontent.com/89647108/136502975-d745ac8a-5f73-4fd2-b2f6-bd0c0a1b7c37.jpeg)
+![IG](https://user-images.githubusercontent.com/89646836/138017678-01d8c5db-ea2d-43e0-a98e-1ff59d209902.png)
 
 
 # CONTROLES
